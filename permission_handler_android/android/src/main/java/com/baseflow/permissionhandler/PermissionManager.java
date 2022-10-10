@@ -15,11 +15,6 @@ import android.os.PowerManager;
 import android.provider.Settings;
 import android.util.Log;
 
-import androidx.annotation.Nullable;
-import androidx.core.app.ActivityCompat;
-import androidx.core.app.NotificationManagerCompat;
-import androidx.core.content.ContextCompat;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
